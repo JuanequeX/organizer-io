@@ -16,7 +16,9 @@ es:
   common:
     back: Atras
   hello: Hello world
-
+  task:
+    errors:
+      invalid_due_date: Fecha Invalida
   tasks:
     form:
       category: Categoría
