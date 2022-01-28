@@ -13,3 +13,10 @@ en:
   common:
     back: Back
   hello: Hello world
+  tasks:
+    form:
+      category: Category
+      description: Description
+      due_date: Due date
+      name: Name
+    new_task: Nueva Tarea
