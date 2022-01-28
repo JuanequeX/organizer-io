@@ -1,0 +1,15 @@
+---
+es:
+  categories:
+    form:
+      description: Descripcción
+      name: Nombre
+    new_category: Nueva Categoria
+  activerecord:
+    models:
+      category:
+        one: Categoría
+        others: Categorías
+  common:
+    back: Atras
+  hello: Hello world
