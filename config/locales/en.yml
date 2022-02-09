@@ -6,8 +6,8 @@ en:
         one: Category
         others: Categories
       task:
-        one: Tarea
-        others: Tareas
+        one: Task
+        others: Tasks
   categories:
     form:
       description: Description
@@ -25,4 +25,4 @@ en:
       description: Description
       due_date: Due date
       name: Name
-    new_task: Nueva Tarea
+    new_task: New Task
